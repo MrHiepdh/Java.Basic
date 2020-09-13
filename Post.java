@@ -1,4 +1,4 @@
-package Junior;
+
 import java.util.Scanner;
 public class Post {
     private String postId,titel,summary,publiher,author;
