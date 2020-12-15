@@ -1,4 +1,3 @@
-package junior;
 public class Customer {
     private String ID = "";
     private String name = "";
@@ -10,7 +9,7 @@ public class Customer {
         return ID;
     }
     public void setID(String iD) {
-        ID = iD;
+        this.ID = iD;
     }
     public String getName() {
         return name;

@@ -51,6 +51,8 @@ public class Student {
         System.out.println("--------------------------\n");
     }
 }
+    
+
 class ManagementStudent {
     private Student[] arrStudent = new Student[50];
     private int len = 0;
@@ -122,6 +124,8 @@ class ManagementStudent {
             System.out.println("No one was found!");
         }
     }
+}
+    
 }
 class JavaMain {
     public static void main(String[] args) {
